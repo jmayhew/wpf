@@ -40,6 +40,13 @@ console.log(yearBorn);//printing both in console*/
 
 //a = a + 3;
 //console.log(a);
-var yearBorn = 1980;
+/*var yearBorn = 1980;
 var age = 2013 - yearBorn - 1;
-console.log(age);
+console.log(age);*/
+//arithmetic expressions
+//area of triangle is half of the width times the height
+var width = 4;
+var height = 5;
+var area = width*height/2;//not adding a line to formula
+area = area/2;//adding a line to the formula
+console.log(area);
