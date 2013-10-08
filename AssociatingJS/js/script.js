@@ -102,5 +102,5 @@ var areaCode=  404;
 var secPart= 585;
 var lastPart= 4746;
 
-var phoneNumber= String(areaCode) +String(secPart)+String(lastPart);
+var phoneNumber= '('+String(areaCode)+ ')'+String(secPart)+'-'+String(lastPart);
 console.log(phoneNumber);
