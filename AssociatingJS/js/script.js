@@ -87,7 +87,13 @@ var b = "7";
 var result = a + b;
 console.log(result);*/
 
-var a = 6;
+/*var a = 6;
 var b = 7;
 var result = a + b;
+console.log(result);*/
+
+//casting
+
+var stringVar = "6";
+var result = 7 + Number(stringVar);
 console.log(result);
