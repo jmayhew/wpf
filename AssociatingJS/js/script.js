@@ -94,6 +94,13 @@ console.log(result);*/
 
 //casting
 
-var stringVar = "6";
-var result = 7 + Number(stringVar);
-console.log(result);
+//var stringVar = "6";
+//var result = 7 + Number(stringVar);
+//console.log(result);
+
+var areaCode=  404;
+var secPart= 585;
+var lastPart= 4746;
+
+var phoneNumber= String(areaCode) +String(secPart)+String(lastPart);
+console.log(phoneNumber);
