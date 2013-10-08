@@ -36,7 +36,10 @@ console.log(yearBorn);//printing both in console*/
 //var isStudent = false;//boolean variable
 //var myFriend = 
 //var firstName = "jesse";
-var a = 2;//sets up variable 
+//var a = 2;//sets up variable 
 
-a = a + 3;
-console.log(a);
+//a = a + 3;
+//console.log(a);
+var yearBorn = 1980;
+var age = 2013 - yearBorn;
+console.log(age);
