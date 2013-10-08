@@ -21,7 +21,8 @@
  
 //console.log(soccerTeams[num]);//lets me see whats in index number one
 
-var yearBorn = 1955;
+/*var yearBorn = 1955;
 
 console.log("hello world");
-console.log(yearBorn);//printing both in console
+console.log(yearBorn);//printing both in console*/
+alert("Hello World");
