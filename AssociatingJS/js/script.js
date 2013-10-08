@@ -56,10 +56,14 @@ console.log(area);*/
 /*var remainder = 32%10;
 console.log(remainder);*/
 //PEMDAS order of operations
-var quiz1 = 87;
+/*var quiz1 = 87;
 var quiz2 = 100;
 var quiz3 = 69;
 var quiz4 = 87;
 //the avg is the sum of the items divided by the number of items
 var average = (quiz1 + quiz2 +quiz3 + quiz4)/4;
-console.log(average);
+console.log(average);*/
+var length= 7;
+var height = 9;
+var perimeter = length*2 + height*2;
+console.log(perimeter);
