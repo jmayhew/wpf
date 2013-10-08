@@ -53,5 +53,13 @@ console.log(area);*/
 //modulo operator
 //var remainder = 32/10;// use % to get whats left of 32 divided by 10
 //console.log(remainder);
-var remainder = 32%10;
-console.log(remainder);
+/*var remainder = 32%10;
+console.log(remainder);*/
+//PEMDAS order of operations
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 69;
+var quiz4 = 87;
+//the avg is the sum of the items divided by the number of items
+var average = (quiz1 + quiz2 +quiz3 + quiz4)/4;
+console.log(average);
