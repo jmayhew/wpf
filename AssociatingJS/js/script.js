@@ -12,8 +12,8 @@
 //arrays
 var soccerTeams = ["Italy", "Brasil", "Germany"]; //0,1,2,3
 
-console.log(soccerTeams[3]);
+console.log(soccerTeams[3]);//undefined- no index number three
 
-soccerTeams[1] = 'Germany';
-console.log(soccerTeams[1]);
+soccerTeams[1] = 'Germany';//change index number one to Germany
+console.log(soccerTeams[1]);//lets me see whats in index number one
 
