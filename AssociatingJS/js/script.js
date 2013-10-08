@@ -26,4 +26,8 @@
 console.log("hello world");
 console.log(yearBorn);//printing both in console*/
 //alert("Hello World");
-alert(yearBorn);
+//alert(yearBorn);
+var age;//declaring variable
+age = 32;//assigning value 32 to age
+
+var yearOfBirth = 1980;//defining and declaring on same line
