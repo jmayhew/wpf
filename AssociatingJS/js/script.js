@@ -7,7 +7,7 @@ var isStudent = false;//boolean variable
 
 var firstName = "Jes";
 
-var phrase = 'I don\'t know you\'ll have to talk to the professor';
+var phrase = 'I don\'t know you\'ll \n have to talk to the professor';
 
 //arrays
 //var soccerTeams = ["Italy", "Brasil", "Germany"]; //0,1,2,3
