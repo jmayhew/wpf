@@ -25,4 +25,5 @@
 
 console.log("hello world");
 console.log(yearBorn);//printing both in console*/
-alert("Hello World");
+//alert("Hello World");
+alert(yearBorn);
