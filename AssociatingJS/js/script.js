@@ -14,3 +14,6 @@ var soccerTeams = ["Italy", "Brasil", "Germany"]; //0,1,2,3
 
 console.log(soccerTeams[3]);
 
+soccerTeams[1] = 'Germany';
+console.log(soccerTeams[1]);
+
