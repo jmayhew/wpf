@@ -63,7 +63,13 @@ var quiz4 = 87;
 //the avg is the sum of the items divided by the number of items
 var average = (quiz1 + quiz2 +quiz3 + quiz4)/4;
 console.log(average);*/
-var length= 7;
-var height = 9;
-var perimeter = length*2 + height*2;
-console.log(perimeter);
+//var length= 7;
+//var height = 9;
+//var perimeter = length*2 + height*2;
+//console.log(perimeter);
+
+
+//Expressions with arrays
+var appleBarrels = [666, 43, 78];
+var total = appleBarrels[0] + appleBarrels[1]+appleBarrels[2];
+console.log(total);
