@@ -70,6 +70,13 @@ console.log(average);*/
 
 
 //Expressions with arrays
-var appleBarrels = [666, 43, 78];
-var total = appleBarrels[0] + appleBarrels[1]+appleBarrels[2];
-console.log(total);
+//var appleBarrels = [666, 43, 78];
+//var total = appleBarrels[0] + appleBarrels[1]+appleBarrels[2];
+//console.log(total);
+
+//expressions concatenating
+
+var firstName = "Jeffrey";
+var lastName = "Susi";
+var fullName = firstName +" "+ lastName;
+console.log(fullName);
