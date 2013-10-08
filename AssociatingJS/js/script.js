@@ -82,7 +82,12 @@ var fullName = firstName +" "+ lastName;//quotes have space
 console.log(fullName);*/
 
 //Concatenating strings
-var a = "6";
+/*var a = "6";
 var b = "7";
+var result = a + b;
+console.log(result);*/
+
+var a = 6;
+var b = 7;
 var result = a + b;
 console.log(result);
