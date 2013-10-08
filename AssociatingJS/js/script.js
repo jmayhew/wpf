@@ -12,5 +12,5 @@
 //arrays
 var soccerTeams = ["Italy", "Brasil", "Germany"]; //0,1,2,3
 
-console.log(soccerTeams[0]);
+console.log(soccerTeams[3]);
 
