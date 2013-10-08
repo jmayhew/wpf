@@ -76,7 +76,13 @@ console.log(average);*/
 
 //expressions concatenating
 
-var firstName = "Jeffrey";
+/*var firstName = "Jeffrey";
 var lastName = "Susi";
-var fullName = firstName +" "+ lastName;
-console.log(fullName);
+var fullName = firstName +" "+ lastName;//quotes have space
+console.log(fullName);*/
+
+//Concatenating strings
+var a = "6";
+var b = "7";
+var result = a + b;
+console.log(result);
