@@ -9,6 +9,7 @@ console.log("Sparky is "+ humanYears+" human years old which is "+ sparkyAge+" i
 var slices = 500;//how many slices
 var people = 6;
 var pizzas = 10;
-
-var result = (slices/people);
-console.log("Each person ate "+ result+" slices of pizza at the party.")
+var leftover = 60;
+var result = (slices/people-leftover);
+//console.log("Each person ate "+ result+" slices of pizza at the party.")
+console.log("Sparky got "+parseInt(result)+" pieces of pizza")
