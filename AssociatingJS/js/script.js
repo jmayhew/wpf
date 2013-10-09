@@ -116,8 +116,13 @@ console.log(phoneNumber);*/
 
 //var userInput = prompt("Enter your year of birth");
 //console.log(userInput);
-var width = prompt("We are calculating the are of a triangle. \nPlease enter the width.")
+/*var width = prompt("We are calculating the are of a triangle. \nPlease enter the width.")
 var height = prompt("Please enter the height.")
 var area = width * height;//calculates info
 console.log(area)//prints out to console
-alert("The area of your rectangle is "+area)
+alert("The area of your rectangle is "+area)*/
+var equity = assetsTotal - liabilitiesTotal;
+
+var assetsTotal = prompt("To find your business' equity enter the assets accumulation " );
+var liabilitiesTotal = prompt("To find your business' equity enter the liabilities accumulation " );
+console.log("Your business' equity is $"+equity+"." );
