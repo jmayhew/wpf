@@ -2,11 +2,17 @@
  * Created by jessemayhew on 10/9/13.
  */
     //Professional Soccer Team stats
-var shots = prompt("How many shots did your team have today?")
-var shotsOnTarget = prompt("How many shots on target were there?(Keeper touched or near post)")
+
+var shotsOffTarget = prompt("How many off target shots did your team have today?(Keeper did not touch nor hit post)")
+var shotsOnTarget = prompt("How many shots on target were there?(Keeper touched or hit post)")
 var possessionTime =prompt("How many minutes did your team have possession?")
 
 
-var averageTimeShooting=  (shots + shotsOnTarget)/possessionTime;
-prompt("Your team spent "+averageTimeShooting+" minutes attacking the goal.")
-console.log("Your team spent "+averageTimeShooting+" minutes attacking the goal.");
+var averageTimeShooting=  shotsOffTarget + shotsOnTarget-possessionTime;
+prompt("Your team spent "+parseInt(averageTimeShooting)+" minutes attacking the goal.")
+console.log("Your team spent "+parseInt(averageTimeShooting)+" minutes attacking the goal.");
+
+var Goals=[1, 1 ,1];
+var totalGoals=Goals[0] + Goals[1]+Goals[2];
+console.log("Your team scored "+totalGoals+" goals.");
+var goals = prompt("Your team scored "+totalGoals+" goals.");
