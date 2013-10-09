@@ -106,5 +106,7 @@ var phoneNumber= '('+String(areaCode)+ ')'+String(secPart)+'-'+String(lastPart);
 console.log(phoneNumber);*/
 
 var a = 3;
-a +=  4;//a = a+ 4;
+//a +=  4;//a = a+ 4; //a -= 4;//
+//a --;//a = a - 1 //and a -= 1
+//a ++;//a = a + 1 and a += 1
 console.log(a);
