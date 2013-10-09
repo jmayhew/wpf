@@ -9,4 +9,4 @@ var possessionTime =prompt("How many minutes did your team have possession?")
 
 var averageTimeShooting=  (shots + shotsOnTarget)/possessionTime;
 prompt("Your team spent "+averageTimeShooting+" minutes attacking the goal.")
-console.log(averageTimeShooting);
+console.log("Your team spent "+averageTimeShooting+" minutes attacking the goal.");
