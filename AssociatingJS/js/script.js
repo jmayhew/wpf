@@ -98,9 +98,13 @@ console.log(result);*/
 //var result = 7 + Number(stringVar);
 //console.log(result);
 
-var areaCode=  404;
+/*var areaCode=  404;
 var secPart= 585;
 var lastPart= 4746;
 
 var phoneNumber= '('+String(areaCode)+ ')'+String(secPart)+'-'+String(lastPart);
-console.log(phoneNumber);
+console.log(phoneNumber);*/
+
+var a = 3;
+a = a + 4;
+console.log(a);
