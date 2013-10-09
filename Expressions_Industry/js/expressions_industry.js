@@ -8,7 +8,7 @@ var shotsOnTarget = prompt("How many shots on target were there?(Keeper touched 
 var possessionTime =prompt("How many minutes did your team have possession?")
 
 var shotsTotal = shotsOffTarget+shotsOnTarget;
-var result= shotsTotal/90 * possessionTime  ;
+var result= (1-shotsTotal/100) * possessionTime  ;
 
 prompt("Your team spent "+result+"% of the time attacking the goal.")
 console.log("Your team spent "+result+"% of the time attacking the goal.");
