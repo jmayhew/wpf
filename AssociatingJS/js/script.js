@@ -118,5 +118,6 @@ console.log(phoneNumber);*/
 //console.log(userInput);
 var width = prompt("We are calculating the are of a triangle. \nPlease enter the width.")
 var height = prompt("Please enter the height.")
-var area = width * height;
-console.log(area)
+var area = width * height;//calculates info
+console.log(area)//prints out to console
+alert("The area of your rectangle is "+area)
