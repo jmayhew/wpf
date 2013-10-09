@@ -105,8 +105,14 @@ var lastPart= 4746;
 var phoneNumber= '('+String(areaCode)+ ')'+String(secPart)+'-'+String(lastPart);
 console.log(phoneNumber);*/
 
-var a = 3;
+//var a = 3;
 //a +=  4;//a = a+ 4; //a -= 4;//
 //a --;//a = a - 1 //and a -= 1
 //a ++;//a = a + 1 and a += 1
-console.log(a);
+//console.log(a);
+
+
+//Prompt and alert
+
+var userInput = prompt("Enter your year of birth");
+console.log(userInput);
