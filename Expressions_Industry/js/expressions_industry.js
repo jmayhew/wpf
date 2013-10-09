@@ -7,10 +7,11 @@ var shotsOffTarget = prompt("How many off target shots did your team have today?
 var shotsOnTarget = prompt("How many shots on target were there?(Keeper touched or hit post)")
 var possessionTime =prompt("How many minutes did your team have possession?")
 
+var shotsTotal = shotsOffTarget+shotsOnTarget;
+var result= shotsTotal/90 * possessionTime  ;
 
-var averageTimeShooting=  shotsOffTarget + shotsOnTarget-possessionTime;
-prompt("Your team spent "+parseInt(averageTimeShooting)+" minutes attacking the goal.")
-console.log("Your team spent "+parseInt(averageTimeShooting)+" minutes attacking the goal.");
+prompt("Your team spent "+result+"% of the time attacking the goal.")
+console.log("Your team spent "+result+"% of the time attacking the goal.");
 
 var Goals=[1, 1 ,1];
 var totalGoals=Goals[0] + Goals[1]+Goals[2];
