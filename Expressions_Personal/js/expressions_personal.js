@@ -1,10 +1,10 @@
 /**
  * Created by Jesse Mayhew on 10/9/13. Web Programming Fundamentals
  */
-var carPayment = prompt("How much do you spend on your car payment per month?");
-var carInsurance= prompt("How much do you spend on your car insurance per month");
-var carGas = prompt("How much do you spend on gas per month?");
+var rent = prompt("Enter Your rent");
+var gasBill = prompt("Enter your gas bill");
+var electricBill = prompt("Enter your electric bill amount");
 
-var total = carPayment + carInsurance + carGas;
-var result = prompt("You spend a total of "+total);
-console.log("You spend a total of "+total);
+var totalBills = rent + gasBill + electricBill;
+prompt("Your bill total is"+totalBills );
+console.log(totalBills);
