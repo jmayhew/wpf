@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6cf8460-2d93-46d1-8433-e49fe77085c2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/expressions_industry.js" afterPath="$PROJECT_DIR$/js/expressions_industry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expressions_Personal/js/expressions_personal.js" afterPath="$PROJECT_DIR$/../Expressions_Personal/js/expressions_personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expressions_Personal/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Expressions_Personal/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Expressions_Personal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Expressions_Personal/.idea/workspace.xml" />
     </list>
     <ignored path="Expressions_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +28,7 @@
       <file leaf-file-name="expressions_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/expressions_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="27" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.5706522" vertical-offset="0" max-vertical-offset="552">
+            <state line="12" column="55" selection-start="763" selection-end="763" vertical-scroll-proportion="0.27173913" vertical-offset="0" max-vertical-offset="552">
               <folding>
                 <element signature="e#0#45#0" expanded="false" />
               </folding>
@@ -265,7 +261,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/expressions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="27" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.5706522" vertical-offset="0" max-vertical-offset="552">
+        <state line="12" column="55" selection-start="763" selection-end="763" vertical-scroll-proportion="0.27173913" vertical-offset="0" max-vertical-offset="552">
           <folding>
             <element signature="e#0#45#0" expanded="false" />
           </folding>
