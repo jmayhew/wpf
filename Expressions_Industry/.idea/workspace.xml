@@ -28,10 +28,8 @@
       <file leaf-file-name="expressions_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/expressions_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="55" selection-start="763" selection-end="763" vertical-scroll-proportion="0.27173913" vertical-offset="0" max-vertical-offset="552">
-              <folding>
-                <element signature="e#0#45#0" expanded="false" />
-              </folding>
+            <state line="46" column="23" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.8097826" vertical-offset="243" max-vertical-offset="1065">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,7 +90,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -127,6 +124,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,8 +133,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -144,14 +142,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -160,6 +150,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -238,33 +236,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/expressions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="19" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="330">
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.2495379" vertical-offset="0" max-vertical-offset="541">
+        <state line="12" column="55" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1065">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/expressions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="55" selection-start="763" selection-end="763" vertical-scroll-proportion="0.27173913" vertical-offset="0" max-vertical-offset="552">
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
+        <state line="18" column="19" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.2495379" vertical-offset="0" max-vertical-offset="541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/expressions_industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="23" selection-start="2331" selection-end="2331" vertical-scroll-proportion="0.8097826" vertical-offset="243" max-vertical-offset="1065">
+          <folding />
         </state>
       </provider>
     </entry>
