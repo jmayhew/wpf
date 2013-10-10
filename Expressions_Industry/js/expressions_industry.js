@@ -39,7 +39,7 @@ futbolArray[shotTotal]=Number(futbolArray[shotsOffTarget])+Number(futbolArray[sh
 
  result= (1-Number(shotTotal)/100) * Number(possessionTime);
 
-prompt("Your team spent "+parseInt(result)+"% of the possession time attacking the goal.")
+var result = prompt("Your team spent "+parseInt(result)+"% of the possession time attacking the goal.")
 console.log("Your team spent "+parseInt(result)+"% of the possession time attacking the goal.");
 console.log(shotsOffTarget);
 console.log(shotsOnTarget);
