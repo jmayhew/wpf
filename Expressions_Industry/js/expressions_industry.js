@@ -23,15 +23,15 @@ var shotsOffTarget =0;
 var shotsOnTarget=1;// , possessionTime, shotTotal, percentOfGoal
 var possessionTime=2;
 var shotTotal=3;
-var goals = 5;
 
 
-futbolArray = [0,1,2,3,4,5];
+
+futbolArray = [0,1,2,3,4];
 futbolArray[shotsOffTarget]=prompt("How many off target shots did your team have today?(Keeper did not touch nor hit post)");
 futbolArray[shotsOnTarget]=prompt("How many shots on target were there?(Keeper touched or hit post)");
 futbolArray[possessionTime]=prompt("How many minutes did your team have possession?");
 futbolArray[shotTotal]=Number(futbolArray[shotsOffTarget])+Number(futbolArray[shotsOnTarget]);
-futbolArray[goals]=prompt("How many times did your team score?");
+
 
 //var shotsOffTarget = prompt("How many off target shots did your team have today?(Keeper did not touch nor hit post)")
 //var shotsOnTarget = prompt("How many shots on target were there?(Keeper touched or hit post)")
@@ -39,14 +39,13 @@ futbolArray[goals]=prompt("How many times did your team score?");
 
  futbolArray[shotTotal] = Number(futbolArray[shotsOffTarget])+ Number(futbolArray[shotsOnTarget]);
 console.log("Your team shot "+futbolArray[shotTotal]+" times");
-console.log(futbolArray[shotTotal]);
-console.log(futbolArray[shotsOffTarget]);
-console.log(futbolArray[shotsOnTarget]);
+console.log("Your team shot "+futbolArray[shotsOffTarget]+" times off target");
+console.log("Your team shot "+futbolArray[shotsOnTarget]+" times on target");
  percentAttacking = (1-Number(futbolArray[shotTotal])/100) * Number(futbolArray[possessionTime]);
 console.log("Your team spent "+parseInt(percentAttacking)+"% of the possession time attacking the goal.");
 
 
- console.log("Your team scored "+goals+" times.");
+
 
 
 
