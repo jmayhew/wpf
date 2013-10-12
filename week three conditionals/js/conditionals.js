@@ -10,3 +10,4 @@ if(oldEnough){
   console.log("You can ride the Coaster");
 
 }
+console.log("this comes after when false");
