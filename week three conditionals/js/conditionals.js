@@ -4,9 +4,10 @@
 //conditionals
 
 //if the kid is over 48 inches in height
-var kidHeight = 30;
+var kidHeight = 50;
+var minHeight = 48;
 //if the child is old enough print to the console "you can ride"
-if(kidHeight > 48){
+if(kidHeight >= 48){
     //code performed if condition is true
   console.log("You can ride the Coaster");
 
