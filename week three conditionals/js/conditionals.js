@@ -21,8 +21,8 @@ var minHeight = 48;
 if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the Coaster");
-}
-if(kidHeight <= minHeight){
+}else{
+//if(kidHeight <= minHeight){
     console.log("Sorry kid you got some growing to do");
 }
 
