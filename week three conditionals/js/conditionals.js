@@ -54,7 +54,9 @@ if(kidHeight > minHeight){
 
 //Conditional Logic Logic Operators
 
-var budget = 300;
+//And
+
+/*var budget = 300;
 var iPhonePrice = 199.99;
 var payCheck = 200;
 //if the price of the phone is less than our budget
@@ -67,4 +69,40 @@ if(iPhonePrice < budget && payCheck > 300){
     //console.log("we can buy the phone");
 //}else{
    // console.log("no phone 4 u");
-//}
+//}*/
+
+/*var budget = 300;
+var iPhonePrice = 199.99;
+var wonLottery = true;
+//if the price of the phone is less than our budget
+if(iPhonePrice < budget || wonLottery === true){
+    console.log("We can buy the phone!");
+}else{
+    console.log("No phone for you!!");
+}
+//if(){
+//console.log("we can buy the phone");
+//}else{
+// console.log("no phone 4 u");
+//}*/
+
+//Conditional Logic - Ternary Operators
+
+/*if(condition){
+    do if true;
+}else{
+    do if false;
+}
+//Shortening as ternary operation
+
+//(condition) ? do if true : do if false;
+//var gpa = 48;
+//if gpa is over the min 2.0 score, the student can graduate
+
+/*if( gpa > 2.0){
+    console.log("You can graduate");
+}else{
+    console.log("GPA is too low");
+}*/
+
+//(gpa > 2.0) ? console.log("You can graduate") : console.log("GPA is too low");
