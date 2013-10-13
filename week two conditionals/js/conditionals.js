@@ -106,3 +106,18 @@ if(iPhonePrice < budget || wonLottery === true){
 }*/
 
 //(gpa > 2.0) ? console.log("You can graduate") : console.log("GPA is too low");
+
+var age = 11;
+var book;
+
+//if the child is under 10 , they get green eggs and ham, otherwise they get hg wells the time machine
+//if(age < 10){
+   // book = "green eggs";
+//}else{
+    //book = "time machine"
+//}
+//console.log(book);
+
+//above problem as ternary
+book = (age <10)? "green eggs":"time machine";
+console.log(book);
