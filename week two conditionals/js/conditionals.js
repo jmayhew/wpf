@@ -41,7 +41,7 @@ if(kidHeight > minHeight){
     console.log("Sorry kid you got some growing to do");
 }*/
 
-/*
+
 //conditional logic else if
 
 var kidHeight = 47;
@@ -73,7 +73,7 @@ if(kidHeight > minHeight){
 //printout sorry you have growing up to do
 
     console.log("Sorry kid you got some growing to do");
-}*/
+}
 
 
 //Conditional Logic Logic Operators
@@ -143,7 +143,7 @@ if(iPhonePrice < budget || wonLottery === true){
 
 //(gpa > 2.0) ? console.log("You can graduate") : console.log("GPA is too low");
 
-var age = 11;
+/*var age = 11;
 var book;
 
 //if the child is under 10 , they get green eggs and ham, otherwise they get hg wells the time machine
@@ -158,4 +158,4 @@ var book;
 //above problem as ternary
 
 book = (age <10)? "green eggs":"time machine";
-console.log(book);
+console.log(book);*/

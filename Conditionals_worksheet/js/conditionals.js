@@ -37,12 +37,12 @@ if(measurement === "C"){
         console.log("You are average");
     }else{
     console.log("you are a genius");
-   }*/
-
+   }
+*/
 
 //Tire pressure
 
-var tireOne=prompt("What is the tire pressure for the first front tire?");
+/*var tireOne=prompt("What is the tire pressure for the first front tire?");
 var tireTwo=prompt("What is the tire pressure for the second front tire?");
 var tireThree=prompt("What is the tire pressure for the first back tire?");
 var tireFour=prompt("What is the tire pressure for the second back tire?");
@@ -51,7 +51,7 @@ if(tireOne===tireTwo&&tireThree===tireFour){
     console.log("You are fine drive away");
 }else{
     console.log("You need a tune up");
-}
+}*/
 
 
 
