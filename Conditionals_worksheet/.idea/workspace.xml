@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="811c60e5-ef21-494e-a7d9-f90da11e26c1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Conditionals_Industry/js/conditionals_industry.js" afterPath="$PROJECT_DIR$/../Conditionals_Industry/js/conditionals_industry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Conditionals_Wacky/js/conditionals_wacky.js" afterPath="$PROJECT_DIR$/../Conditionals_Wacky/js/conditionals_wacky.js" />
     </list>
     <ignored path="Conditionals_worksheet.iws" />
     <ignored path=".idea/workspace.xml" />

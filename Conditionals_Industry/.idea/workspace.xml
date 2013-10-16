@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff7ed822-b974-4d56-ac29-32e91387e700" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/conditionals_industry.js" afterPath="$PROJECT_DIR$/js/conditionals_industry.js" />
-    </list>
+    <list default="true" id="ff7ed822-b974-4d56-ac29-32e91387e700" name="Default" comment="" />
     <ignored path="Conditionals_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +78,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="29" />
-    <option name="y" value="147" />
+    <option name="y" value="148" />
     <option name="width" value="1004" />
     <option name="height" value="408" />
   </component>
@@ -214,7 +212,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="147" width="1004" height="408" extended-state="0" />
+    <frame x="29" y="148" width="1004" height="408" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />

@@ -6,7 +6,7 @@
 
 
 
-var gravity=prompt("What is the gravity where you are so we can find out what planet you landed on?");
+var gravity=prompt("What is the gravity in meters per second where you are so we can find out what planet you landed on?");//prompts the end user to enter a number for gravity in meters per second to find out where he could be
 
 if(gravity <= 3.724){
      console.log("You are close to Mars");
