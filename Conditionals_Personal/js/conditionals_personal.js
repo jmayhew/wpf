@@ -1,6 +1,6 @@
 /**
  * Created by jessemayhew on 10/15/13.
- */
+ *///web programming fundamentals
 //Ternary with amount of time working on homework
 
 var homeworkTime = prompt("How many minutes have you been working at your studies?");//Prompting the student to enter the minutes of time he has been studying
