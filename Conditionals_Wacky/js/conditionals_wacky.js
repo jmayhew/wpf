@@ -13,9 +13,9 @@ if(gravity <= 3.724){//if gravity is less than or equal to 3.724
  }else if(gravity >= 3.725 && gravity<=8.82){//else if condition with and operator
     console.log("You are close to being on Venus");//console logs guesses he may be close Venus
 }else if(gravity>=8.83 && gravity<= 8.918){//else if condition with and operator
-    console.log("You may be on Saturn");
-}else if(gravity>=8.918 && gravity<= 9.8){
-    console.log("You are probably on Earth");
+    console.log("You may be on Saturn");//console log guesses he may be on Saturn
+}else if(gravity>=8.918 && gravity<= 9.8){//else if condition with and operator
+    console.log("You are probably on Earth");//console log guesses he is probably on Earth
 }else if(gravity>=9.9 && gravity <= 11.1172){
     console.log("You are probably near Neptune");
 
