@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7da2b6bc-4cd4-4312-a292-a05ca6961ec4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/conditionals_wacky.js" afterPath="$PROJECT_DIR$/js/conditionals_wacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Conditionals_Industry/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Conditionals_Industry/.idea/workspace.xml" />
     </list>
     <ignored path="Conditionals_Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="conditionals_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/conditionals_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="226" selection-start="393" selection-end="393" vertical-scroll-proportion="0.35502958" vertical-offset="0" max-vertical-offset="480">
+            <state line="12" column="45" selection-start="593" selection-end="593" vertical-scroll-proportion="0.5325444" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
@@ -247,7 +246,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/conditionals_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="226" selection-start="393" selection-end="393" vertical-scroll-proportion="0.35502958" vertical-offset="0" max-vertical-offset="480">
+        <state line="12" column="45" selection-start="593" selection-end="593" vertical-scroll-proportion="0.5325444" vertical-offset="0" max-vertical-offset="480">
           <folding />
         </state>
       </provider>

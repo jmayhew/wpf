@@ -8,8 +8,8 @@
 
 var gravity=prompt("What is the gravity in meters per second where you are so we can find out what planet you landed on?");//prompts the end user to enter a number for gravity in meters per second to find out where he could be
 
-if(gravity <= 3.724){
-     console.log("You are close to Mars");
+if(gravity <= 3.724){//if gravity is less than or equal to 3.724
+     console.log("You are close to Mars");//console log guesses he may be close to Mars
  }else if(gravity >= 3.725 && gravity<=8.82){
     console.log("You are close to being on Venus");
 }else if(gravity>=8.83 && gravity<= 8.918){
