@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7ed822-b974-4d56-ac29-32e91387e700" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Conditionals_Industry.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/conditionals_industry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Conditionals_Personal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Conditionals_Personal/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Conditionals_worksheet/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Conditionals_worksheet/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week two conditionals/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../week two conditionals/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/conditionals_industry.js" afterPath="$PROJECT_DIR$/js/conditionals_industry.js" />
     </list>
     <ignored path="Conditionals_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +46,7 @@
       <file leaf-file-name="conditionals_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/conditionals_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.6315789" vertical-offset="0" max-vertical-offset="285">
+            <state line="4" column="127" selection-start="206" selection-end="206" vertical-scroll-proportion="0.11029412" vertical-offset="0" max-vertical-offset="272">
               <folding>
                 <element signature="e#0#46#0" expanded="false" />
               </folding>
@@ -274,7 +264,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/conditionals_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.6315789" vertical-offset="0" max-vertical-offset="285">
+        <state line="4" column="127" selection-start="206" selection-end="206" vertical-scroll-proportion="0.11029412" vertical-offset="0" max-vertical-offset="272">
           <folding>
             <element signature="e#0#46#0" expanded="false" />
           </folding>
