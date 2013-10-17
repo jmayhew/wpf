@@ -84,9 +84,22 @@ function calcArea(w, h){//w= 30 h = 20 goes in the parenthesis not visible
     console.log(area);
 }*/
 
-function dogYears(){
-    var age =4;
+/*function dogYears(age){//use commas for more parameters to store in the definition
     var dogYears = age * 7;
     console.log("Sparky is "+dogYears+" years old.")
 }
-dogYears();//call it
+
+
+dogYears();//function call passes to the parameter
+dogYears();//same result
+dogYears(6);//store as 6 get Sparky is 42 years old
+dogYears(4);//with the upper call and this one -two values in console 42 and 28
+            //the age variable is being passed with 6 and 4 it's called a pass
+            //parenthesis in the call holds the argument*/
+
+function dogYears(age){
+    var dogYears = age * 7;
+    console.log("Sparky is "+dogYears+" years old.")
+}
+var age1=9;//switchable
+dogYears(age1);//switchable
