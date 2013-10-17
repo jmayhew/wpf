@@ -42,6 +42,20 @@ while(c > 0);// while our condition is true*/
 
 //For Loop - shorthand version of loops , culmination of all the loops put together
 
-for (var i = 10; i > 0; i--){// sets up condition in on line decrements and variable and condition
+/*for (var i = 10; i > 0; i--){// sets up condition in on line decrements and variable and condition
     console.log(i + 'barrels of oranges')//if true lists each one in index
+}*/
+
+function outptMsg(){
+    console.log("Hello World");
 }
+
+function calcArea(){
+    var width = 20;
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
+
+calcArea();//invocation of function , function call, execution of function
+calcArea();//twice if necessary
