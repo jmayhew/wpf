@@ -62,7 +62,7 @@ calcArea();//twice if necessary*/
 
 // variable scope
 
-var width = 5;//two variables for width same name
+/*var width = 5;//two variables for width same name
 
 function calcArea(){
     var width = 20;//prefers to calculate inside the function
@@ -71,4 +71,22 @@ function calcArea(){
     console.log(area);
 }
 calcArea();
-console.log(width);//prefers to to calculate what is outside the function (5)
+console.log(width);//prefers to to calculate what is outside the function (5)*/
+
+//Arguments and Parameters
+
+/*calcArea(30, 20);//30 is the first argument 20 is the second
+                //calling the
+
+
+function calcArea(w, h){//w= 30 h = 20 goes in the parenthesis not visible
+    var area = w * h;
+    console.log(area);
+}*/
+
+function dogYears(){
+    var age =4;
+    var dogYears = age * 7;
+    console.log("Sparky is "+dogYears+" years old.")
+}
+dogYears();//call it
