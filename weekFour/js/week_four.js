@@ -46,7 +46,7 @@ while(c > 0);// while our condition is true*/
     console.log(i + 'barrels of oranges')//if true lists each one in index
 }*/
 
-function outptMsg(){
+/*function outptMsg(){
     console.log("Hello World");
 }
 
@@ -58,4 +58,17 @@ function calcArea(){
 }
 
 calcArea();//invocation of function , function call, execution of function
-calcArea();//twice if necessary
+calcArea();//twice if necessary*/
+
+// variable scope
+
+var width = 5;//two variables for width same name
+
+function calcArea(){
+    var width = 20;//prefers to calculate inside the function
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
+calcArea();
+console.log(width);//prefers to to calculate what is outside the function (5)
