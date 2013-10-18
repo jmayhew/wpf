@@ -119,7 +119,7 @@ console.log(total);//to access value */
 
 //this is a Function
 
-function calcAreaF(width, height){
+/*function calcAreaF(width, height){
     var area = width * height;
     return area;
 }
@@ -129,4 +129,37 @@ function calcAreaF(width, height){
 function calcAreaP(width, height){
     var area = width * height;
     console.log(area);  //no return
+}*/
+
+//Anonymous Functions- also called closures
+//are functions created and given a name as the code is run
+
+
+/*var functionName = function(){//function definition
+    //code the function runs
 }
+
+functionName();//Function Call*/
+
+/*function functionName(){
+
+}
+
+var functionName = function(){
+    //code to run
+}
+
+functionName();*/
+
+var calcArea = function(width, height){//defining the function here - must be before the invoking
+
+    var area = width * height;//code the function runs
+    return area;
+}
+
+var a = calcArea(20, 30);//invoking, or calling
+
+console.log(a);
+
+//named functions, no matter where they are defined before the code is run(hoisting)
+//Anonymous Functions are used for brevity , scope variables are better for this
