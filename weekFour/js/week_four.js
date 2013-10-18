@@ -114,3 +114,19 @@ function calcArea(w, h){
 }
 
 console.log(total);//to access value */
+
+//Procedures
+
+//this is a Function
+
+function calcAreaF(width, height){
+    var area = width * height;
+    return area;
+}
+
+//This is a Procedure
+
+function calcAreaP(width, height){
+    var area = width * height;
+    console.log(area);  //no return
+}
