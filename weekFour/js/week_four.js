@@ -97,9 +97,20 @@ dogYears(4);//with the upper call and this one -two values in console 42 and 28
             //the age variable is being passed with 6 and 4 it's called a pass
             //parenthesis in the call holds the argument*/
 
-function dogYears(age){
+/*function dogYears(age){
     var dogYears = age * 7;
     console.log("Sparky is "+dogYears+" years old.")
 }
 var age1=9;//switchable
-dogYears(age1);//switchable
+dogYears(age1);//switchable*/
+
+//Returning values
+
+/*var total = calcArea(30, 20);//total equals the function call
+
+function calcArea(w, h){
+    var area = w * h;
+    return area;    //function spitting the info out
+}
+
+console.log(total);//to access value */
