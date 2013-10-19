@@ -8,13 +8,29 @@
 
 
 
- circumferenceCircle( 6, 3.14);//arguments
+// circumferenceCircle( 6, 3.14);//arguments
+//var radius = 6;
+//var pi = 3.14;
 
-    function circumferenceCircle(r, p){//arguments are passed or thrown in parenthesis
-        var circumference = r* 2 * p;//formula for circumference of a circle with only radius
-console.log("The circumference of the circle is "+circumference);//concatenation with circumference
+ /*   function circumferenceCircle(radius * 2 *pi) = function(radius, pi){//arguments are passed or thrown in parenthesis
+        var circumference = radius*2*pi;//formula for circumference of a circle with only radius
+        return circumference;
+
+    }
+         var result = circumferenceCircle(6, 3.14);
+            console.log("The circumference of the circle is "+result);// return the circumference*/
+
+//Stung!
 
 
 
+//victimWeight = prompt("How much will the victim of bee sting kills weigh?")
+
+var stings = calcStings(190, 8.6666666667 );
+
+function calcStings(victimWeight, beeStings){
+        var totalStings = victimWeight * beeStings;
+        return totalStings;
 }
 
+console.log("It takes "+stings+" bee stings to kill this animal.");
