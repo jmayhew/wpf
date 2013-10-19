@@ -26,9 +26,9 @@
 
 //victimWeight = prompt("How much will the victim of bee sting kills weigh?")
 
-var stings = calcStings(190, 8.6666666667 );
+var stings = calcStings(190, 8.6666666667 );//Parameters
 
-function calcStings(victimWeight, beeStings){
+function calcStings(victimWeight, beeStings){//defining the function
         var totalStings = victimWeight * beeStings;
         return totalStings;
 }
