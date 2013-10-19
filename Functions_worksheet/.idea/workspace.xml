@@ -26,8 +26,10 @@
       <file leaf-file-name="functions_worksheet.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/functions_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="94" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.8395722" vertical-offset="24" max-vertical-offset="585">
-              <folding />
+            <state line="13" column="57" selection-start="402" selection-end="402" vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="561">
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,7 +200,9 @@
     <entry file="file://$PROJECT_DIR$/js/functions_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="39" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="375">
-          <folding />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -218,8 +222,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="94" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.8395722" vertical-offset="24" max-vertical-offset="585">
-          <folding />
+        <state line="13" column="57" selection-start="402" selection-end="402" vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="561">
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
