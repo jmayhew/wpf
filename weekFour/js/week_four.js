@@ -23,12 +23,12 @@ while (b > 0 ){
 
 //adding concatenation
 
-var b = 10;// sets up the index
+/*var b = 10;// sets up the index
 
 while (b > 0 ){//checks the condition
     console.log(b + 'kegs on the wall');//concatenation
     b--;// decrements  or increments the index
-}
+}*/
 
 //DO While loop (not as common as loop
 
@@ -76,7 +76,7 @@ console.log(width);//prefers to to calculate what is outside the function (5)*/
 //Arguments and Parameters
 
 /*calcArea(30, 20);//30 is the first argument 20 is the second
-                //calling the
+
 
 
 function calcArea(w, h){//w= 30 h = 20 goes in the parenthesis not visible
