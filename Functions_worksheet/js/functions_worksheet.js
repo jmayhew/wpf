@@ -33,4 +33,4 @@ function calcStings(victimWeight, beeStings){//defining the function
         return totalStings;//spitting out the info
 }
 
-console.log("It takes "+stings+" bee stings to kill this animal.");
+console.log("It takes "+stings+" bee stings to kill this animal.");//concatenation with stings
