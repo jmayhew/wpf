@@ -29,7 +29,7 @@
 var stings = calcStings(190, 8.6666666667 );//Parameters
 
 function calcStings(victimWeight, beeStings){//defining the function
-        var totalStings = victimWeight * beeStings;
+        var totalStings = victimWeight * beeStings;//code the function runs
         return totalStings;
 }
 
