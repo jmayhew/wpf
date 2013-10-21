@@ -21,13 +21,16 @@ var sound = prompt("How many decibels can your voice make?");
 var decibelsTobreakGlass = 100;
 var jetEngine = 140;
 var shotgun = 165;
+var loudestSound = 195;
 
-if(sound <= decibelsTobreakGlass){
+if(sound < decibelsTobreakGlass){
     console.log("You can not break the flawed glass!");
-}else if(sound >= decibelsTobreakGlass){
+}else if(sound >= decibelsTobreakGlass && sound < jetEngine){
     console.log("You can break the flawed glass!");
-}else if(sound >= decibelsTobreakGlass  && sound <= jetEngine){
+}else if(sound >= jetEngine && sound < shotgun){
     console.log("You have a jet engine!");
-}else if(sound > jetEngine && sound >= shotgun);
-    console.log("You have a shotgun");
+}else if(sound >= shotgun && sound < loudestSound){
+    console.log("You have a shotgun!");
+}else if(sound >= loudestSound){
+    console.log("You have the loudest sound ever!");
 }
