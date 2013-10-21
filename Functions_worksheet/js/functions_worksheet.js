@@ -7,7 +7,7 @@
 
 
 
-var total = circumferenceCircle( 6, 3.14);//parameters
+/*var total = circumferenceCircle( 6, 3.14);//parameters
 
   function circumferenceCircle(radius, pi){//arguments are passed or thrown in parenthesis
         var circumference = radius*2*pi;//formula for circumference of a circle with only radius

@@ -44,9 +44,9 @@ if(kidHeight > minHeight){
 
 //conditional logic else if
 
-var kidHeight = 47;
+/*var kidHeight = 47;
 var minHeight = 48;
-var wParentHeight = 45;//the height of the kid w/parent
+var wParentHeight = 45;//the height of the kid w/parent*/
 
 //if the child is old enough print to the console
 //if the child is over 48 inches in height
@@ -56,7 +56,7 @@ var wParentHeight = 45;//the height of the kid w/parent
 //"else if" always requires condition
 //"else" never requires a condition
 
-if(kidHeight > minHeight){
+/*if(kidHeight > minHeight){
 
     //code performed if condition is true
 
@@ -73,7 +73,7 @@ if(kidHeight > minHeight){
 //printout sorry you have growing up to do
 
     console.log("Sorry kid you got some growing to do");
-}
+}*/
 
 
 //Conditional Logic Logic Operators
