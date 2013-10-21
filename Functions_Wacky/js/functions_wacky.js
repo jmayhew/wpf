@@ -17,14 +17,14 @@ block
 4. Else block
 5. Conditional operator other than equals */
 
-var sound = prompt("How many decibels can your voice make?");
-var decibelsTobreakGlass = 100;
-var jetEngine = 140;
-var shotgun = 165;
-var loudestSound = 195;
+var sound = prompt("How many decibels can your voice make?");//prompting the user for a decibel amount
+var decibelsTobreakGlass = 100;// variable for amount of decibels it takes to break flawed glass
+var jetEngine = 140;// variable for amount of decibels a jet engine has
+var shotgun = 165;//variable for amount of decibels a shotgun has
+var loudestSound = 195;// variable for amount of decibels the loudest sound is
 
-if(sound < decibelsTobreakGlass){
-    console.log("You can not break the flawed glass!");
+if(sound < decibelsTobreakGlass){//if statement - if sound is less than dBs it takes to break glass
+    console.log("You can not break the flawed glass!");// logs the string
 }else if(sound >= decibelsTobreakGlass && sound < jetEngine){
     console.log("You can break the flawed glass!");
 }else if(sound >= jetEngine && sound < shotgun){
