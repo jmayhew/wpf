@@ -32,5 +32,5 @@ if(sound < decibelsTobreakGlass){//if statement with relational operator- if sou
 }else if(sound >= shotgun && sound < loudestSound){//else if statement with relational and logical operator
     console.log("You have a shotgun!");// logs the string
 }else if(sound >= loudestSound){//else if statement with relational operator
-    console.log("You have the loudest sound ever!");
-}
+    console.log("You have the loudest sound ever!");// logs the string
+}// ends the if statement
