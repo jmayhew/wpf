@@ -1,21 +1,8 @@
 /**
  * Created by jessemayhew on 10/20/13.
  */
-/*Each of the following requirements must exist in at least one of the 3 sub projects:
- A ternary
- An else if
- An anonymous function
- A normal "named" function
- An expression with two arithmetic operators
- A function with three parameters.
- At least one logical operator
-1. Conditional (ternary) operator
-2. If statement, condition, and True
-block
-3. Else If statement, condition, and
-block
-4. Else block
-5. Conditional operator other than equals */
+
+
 
 var sound = prompt("How many decibels can your voice make?");//prompting the user for a decibel amount
 var decibelsTobreakGlass = 100;// variable for amount of decibels it takes to break flawed glass

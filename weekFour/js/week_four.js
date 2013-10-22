@@ -157,9 +157,9 @@ var calcArea = function(width, height){//defining the function here - must be be
     return area;
 }
 
-var a = calcArea(20, 30);//invoking, or calling
+var a = calcArea(20, 30);// invoking, or calling
 
 console.log(a);
 
 //named functions, no matter where they are defined before the code is run(hoisting)
-//Anonymous Functions are used for brevity , scope variables are better for this
+//Anonymous Functions are used for brevity , scope variables are better with this
