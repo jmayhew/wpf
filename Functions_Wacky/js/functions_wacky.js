@@ -1,7 +1,7 @@
 /**
  * Created by jessemayhew on 10/20/13.
  */
-/*Each of the following requirements must exist in at least one of the 3 subprojects:
+/*Each of the following requirements must exist in at least one of the 3 sub projects:
  A ternary
  An else if
  An anonymous function
@@ -31,6 +31,6 @@ if(sound < decibelsTobreakGlass){//if statement with relational operator- if sou
     console.log("You have a jet engine!");// logs the string
 }else if(sound >= shotgun && sound < loudestSound){//else if statement with relational and logical operator
     console.log("You have a shotgun!");// logs the string
-}else if(sound >= loudestSound){//else if statement with relational operator
+}else{//else block
     console.log("You have the loudest sound ever!");// logs the string
 }// ends the if statement
