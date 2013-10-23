@@ -1,13 +1,7 @@
 /**
  * Created by jessemayhew on 10/22/13.
  */
-/*A ternary
-An anonymous function
- A normal "named" function
-//done in the bottom example(bank)An expression with two arithmetic operators
-A function with three parameters.
-Conditional (ternary) operator
-*/
+
 
 //Bank tellers use this counting method, it is proven to be easier.
 

@@ -3,14 +3,9 @@
  */
 
 
-/*A ternary
-An anonymous function
-A function with three parameters.
-   */
 
 
-
-//Function to calculate when building metal structures
+//Function to calculate when building small metal structures in my room
 
 
 var totalSize = calcRhombus();// return puts the area in the variable totalSize
@@ -22,12 +17,16 @@ function calcRhombus(side, altitude){//normal function
     return area;//returns the value area to the variable totalSize
 }//ends function
 
-console.log(totalSize+" square feet/inches is the total area of the rhombus");//log with answer and string- concatenation
+console.log(totalSize+" square feet/inches is the total area of the rhombus");//log with answer and string- concatenation*/
 
 
 
 
-/
+
+
+
+
+
 
 
 

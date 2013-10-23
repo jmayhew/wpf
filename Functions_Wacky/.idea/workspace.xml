@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afbb8911-7025-4259-822c-90d08d40f7b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/Functions_Extra.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/js/functions_extra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Functions_Extra/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week two conditionals/js/conditionals.js" afterPath="$PROJECT_DIR$/../week two conditionals/js/conditionals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js" afterPath="$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js" afterPath="$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Functions_Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +40,7 @@
       <file leaf-file-name="expressions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="82" selection-start="47" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="360">
+            <state line="18" column="82" selection-start="47" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
@@ -38,15 +50,6 @@
         <entry file="file://$PROJECT_DIR$/../Conditionals_Wacky/js/conditionals_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="16" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="expressions_industry.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Expressions_Industry/js/expressions_industry.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1215">
               <folding />
             </state>
           </provider>
@@ -75,7 +78,7 @@
       <file leaf-file-name="week_four.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../weekFour/js/week_four.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="320" column="0" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="5085">
+            <state line="320" column="0" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="5085">
               <folding />
             </state>
           </provider>
@@ -84,25 +87,49 @@
       <file leaf-file-name="functions_industry.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="30" selection-start="49" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <folding />
+            <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions_personal.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="functions_personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="49" selection-start="313" selection-end="313" vertical-scroll-proportion="0.5739796" vertical-offset="0" max-vertical-offset="555">
-              <folding />
+            <state line="7" column="71" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions_extra.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Functions_Extra/js/functions_extra.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="36" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10752688" vertical-offset="0" max-vertical-offset="279">
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Functions_Personal/index.html">
+        <entry file="file://$PROJECT_DIR$/../Functions_Extra/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditionals.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../week two conditionals/js/conditionals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="145" column="0" selection-start="2995" selection-end="2995" vertical-scroll-proportion="0.0" vertical-offset="2101" max-vertical-offset="2790">
               <folding />
             </state>
           </provider>
@@ -127,19 +154,21 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/../week two conditionals/js/conditionals.js" />
         <option value="$PROJECT_DIR$/js/functions_wacky.js" />
-        <option value="$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js" />
         <option value="$PROJECT_DIR$/../weekFour/js/week_four.js" />
         <option value="$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js" />
+        <option value="$PROJECT_DIR$/../Functions_Extra/index.html" />
+        <option value="$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js" />
+        <option value="$PROJECT_DIR$/../week two conditionals/js/conditionals.js" />
+        <option value="$PROJECT_DIR$/../Functions_Extra/js/functions_extra.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="275" />
-    <option name="y" value="40" />
+    <option name="x" value="199" />
+    <option name="y" value="25" />
     <option name="width" value="608" />
-    <option name="height" value="599" />
+    <option name="height" value="486" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -184,7 +213,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week two conditionals/js/conditionals.js" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -249,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="40" width="608" height="599" extended-state="0" />
+    <frame x="199" y="25" width="608" height="486" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -290,13 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../week two conditionals/js/conditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="3" selection-start="1788" selection-end="1788" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="27" selection-start="57" selection-end="57" vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="225">
@@ -325,9 +347,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Expressions_Wacky/js/expressions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="82" selection-start="47" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Conditionals_Wacky/js/conditionals_wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions_Extra/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../week two conditionals/js/conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="0" selection-start="2995" selection-end="2995" vertical-scroll-proportion="0.0" vertical-offset="2101" max-vertical-offset="2790">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../weekFour/js/week_four.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="320" column="0" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="4528" max-vertical-offset="5085">
           <folding />
         </state>
       </provider>
@@ -341,27 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="49" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Conditionals_Wacky/js/conditionals_wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Functions_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Expressions_Personal/js/expressions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -369,17 +405,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../weekFour/js/week_four.js">
+    <entry file="file://$PROJECT_DIR$/../Functions_Industry/js/functions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="320" column="0" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="4528" max-vertical-offset="5085">
-          <folding />
+        <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="405">
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="49" selection-start="313" selection-end="313" vertical-scroll-proportion="0.5739796" vertical-offset="0" max-vertical-offset="555">
-          <folding />
+        <state line="7" column="71" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Functions_Extra/js/functions_extra.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="36" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10752688" vertical-offset="0" max-vertical-offset="279">
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
