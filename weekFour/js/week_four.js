@@ -259,6 +259,10 @@ console.log(total);//to access value*/
     return area;
 }
 
+
+
+
+
 //This is a Procedure- it has no return
 
 function calcAreaP(width, height){
@@ -266,8 +270,13 @@ function calcAreaP(width, height){
     console.log(area);  //no return
 }*/
 
-//Anonymous Functions- also called closures
-//are functions created and given a name as the code is run
+
+
+
+//Functions - Anonymous Functions- also called closures -are functions created and given a name as the code is run
+
+
+
 
 
 /*var functionName = function(){//function definition
@@ -276,9 +285,15 @@ function calcAreaP(width, height){
 
 functionName();//Function Call*/
 
+
+
+
+
 /*function functionName(){
 
 }
+
+
 
 var functionName = function(){
     //code to run
@@ -286,8 +301,14 @@ var functionName = function(){
 functionName();*/
 
 
-//instead of function uses var
-/*var calcArea = function(width, height){//defining the function here - must be before the invoking
+
+
+
+
+//instead of function we are using  variable below
+
+
+var calcArea = function(width, height){//defining the function here - must be before the invoking
 
     var area = width * height;//code the function runs
     return area;
@@ -295,18 +316,21 @@ functionName();*/
 
 calcArea(20, 30);// invoking, or calling
 
-console.log(a);*/
+console.log(a);
 
 
-/*var calcArea = function(width, height){//defining the function here - must be before the invoking
+
+
+
+var calcArea = function(width, height){//defining the function here - must be before the invoking
 
     var area = width * height;//code the function runs
     return area;
 }
 
-var a = calcArea(20, 30);//returning into the value a
+var a = calcArea(20, 30);//returning into the value "a"
 
-console.log(a);*/
+console.log(a);
 
 //named functions, no matter where they are defined before the code is run(hoisting)
 //Anonymous Functions are used for brevity , scope variables are better with this
