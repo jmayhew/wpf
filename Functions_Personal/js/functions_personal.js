@@ -2,19 +2,20 @@
  * Created by jessemayhew on 10/22/13.
  */
 
-// around how many days away from my birthday?
 
-var date =prompt("What date is it today?(Use a two digit number)");
-var myBday = (11*29+28);//365-33=332
-var month = prompt("What month is it?(Use a two digit number)");
+/*A ternary
+An anonymous function
+    A normal "named" function
+//done in the bottom example(bank)>An expression with two arithmetic operators
+    A function with three parameters.
+   */
 
-var total = calcDays(date, myBday, month);
-function calcDays(date, myBday, month){
-    var days = month*date;
-    if(days>332){
-        var days-date
-    }
+
+var totalSize = calcBowl(3, 2, 1);
+function calcBowl(liquids, dry, seasoning){
+    var
 }
+
 
 var total = calcArea(30, 20);//total equals the function call
 
