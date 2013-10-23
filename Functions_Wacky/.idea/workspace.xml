@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="afbb8911-7025-4259-822c-90d08d40f7b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js" afterPath="$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../weekFour/js/week_four.js" afterPath="$PROJECT_DIR$/../weekFour/js/week_four.js" />
     </list>
     <ignored path="Functions_Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="week_four.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="week_four.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../weekFour/js/week_four.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="20" selection-start="2275" selection-end="2275" vertical-scroll-proportion="-0.53061223" vertical-offset="2353" max-vertical-offset="5085">
+            <state line="320" column="0" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="5085">
               <folding />
             </state>
           </provider>
@@ -91,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions_personal.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="functions_personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+            <state line="17" column="49" selection-start="313" selection-end="313" vertical-scroll-proportion="0.5739796" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -370,16 +369,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js">
+    <entry file="file://$PROJECT_DIR$/../weekFour/js/week_four.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="320" column="0" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="4528" max-vertical-offset="5085">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../weekFour/js/week_four.js">
+    <entry file="file://$PROJECT_DIR$/../Functions_Personal/js/functions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="20" selection-start="2275" selection-end="2275" vertical-scroll-proportion="-0.53061223" vertical-offset="2353" max-vertical-offset="5085">
+        <state line="17" column="49" selection-start="313" selection-end="313" vertical-scroll-proportion="0.5739796" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>

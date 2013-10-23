@@ -5,34 +5,29 @@
 
 /*A ternary
 An anonymous function
-
-
-    A function with three parameters.
+A function with three parameters.
    */
 
 
-var totalSize = calcRhombus();
 
-function calcRhombus(side, altitude){
-    var side = 20;
-    var altitude = 29;
-    var area = side * altitude;
-    return area;
-}
-
-console.log(totalSize+"square feet/inches is the total area of the rhombus");
+//Function to calculate when building metal structures
 
 
+var totalSize = calcRhombus();// return puts the area in the variable totalSize
+
+function calcRhombus(side, altitude){//normal function
+    var side = 20;// variable for side measurement
+    var altitude = 29;//variable for altitude measurement
+    var area = side * altitude;//expression
+    return area;//returns the value area to the variable totalSize
+}//ends function
+
+console.log(totalSize+" square feet/inches is the total area of the rhombus");//log with answer and string- concatenation
 
 
-/*var total = calcArea(30, 20);//total equals the function call
 
-function calcArea(w, h){
-    var area = w * h;
-    return area;    //function spitting the info out
-}
 
-console.log(total);//to access value */
+/
 
 
 
