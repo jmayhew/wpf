@@ -103,7 +103,7 @@ function calcArea(){//curly braces say these are the codes my function is going 
 /*function outptMsg(){
  console.log("Hello World");
  }
-
+*/
 
 
 
@@ -115,7 +115,7 @@ function calcArea(){//curly braces say these are the codes my function is going 
  }
 
  calcArea();//invocation of function- automatically calls "area" , function call, execution of function
- calcArea();//twice if necessary- making the code REUSABLE*/
+ calcArea();//twice if necessary- making the code REUSABLE
 
 
 
@@ -139,6 +139,8 @@ console.log(width);//prefers to to calculate what is outside the function (5)*/
 
 
 
+/*
+
 var width = 5;//two variables for width same name
 
 function calcArea(){
@@ -149,6 +151,9 @@ function calcArea(){
 }
 calcArea();//scoped to calcArea width of "20"
 console.log(width);//prefers to to calculate what is outside the function (5) bc this code is outside the function
+
+
+*/
 
 
 
@@ -163,12 +168,16 @@ console.log(width);//prefers to to calculate what is outside the function (5) bc
 
 
 
-/*calcArea(30, 20);//30 is the first argument 20 is the second
+/*
+
+calcArea(30, 20);//30 is the first argument 20 is the second
 
 function calcArea(w, h){//w= 30 h = 20 goes in the parenthesis not visible
     var area = w * h;
     console.log(area);
-}*/
+}
+
+*/
 
 
 
@@ -177,7 +186,9 @@ function calcArea(w, h){//w= 30 h = 20 goes in the parenthesis not visible
 
 
 
-/*function dogYears(){//use commas for more parameters to store in the definition
+/*
+
+function dogYears(){//use commas for more parameters to store in the definition
     var age = 4;//variable for human years
     var dogYears = age * 7;//code to run
     console.log("Sparky is "+dogYears+" years old.")//logs string with result
@@ -188,7 +199,9 @@ dogYears();//same result and twice*/
 
 
 
-/*function dogYears(age){//parenthesis holds parameter ,use commas for more parameters to store in the definition
+/*
+
+function dogYears(age){//parenthesis holds parameter ,use commas for more parameters to store in the definition
     //var age = 4;//variable for human years instead we put in the parameter
     var dogYears = age * 7;//code to run
     console.log("Sparky is "+dogYears+" years old.")//logs
@@ -204,14 +217,18 @@ dogYears(4);//with the upper call and this one -two values in console 42 and 28
 
 
 
-/*function dogYears(age){
+/*
+
+function dogYears(age){
     var dogYears = age * 7;
     console.log("Sparky is "+dogYears+" years old.")
 }
 var age1=9;//just like anything else in code using a value is the same thing as using
 a variable that represents that value- enters "var age1" below
 dogYears(age1);//switchable
-dogYears(5);//results in two answers "9*7" and "5*7*/
+dogYears(5);//results in two answers "9*7" and "5*7"
+
+*/
 
 
 
@@ -222,25 +239,30 @@ dogYears(5);//results in two answers "9*7" and "5*7*/
 
 //Returning values
 
-/*calcArea(30,20);
+/*
+
+calcArea(30,20);
 
 function calcArea(w, h){
     var area = w * h;
     console.log(area);//no return
 }
+
 */
 
 
 
-/*var total = calcArea(30, 20);//total equals the function call it stores the return,
-// they should be assigned to variables
+/*
+
+var total = calcArea(30, 20);   //total equals the function call it stores the return,
+                                // they (parameters) should be assigned to variables
 
 function calcArea(w, h){
     var area = w * h;
-    return area; //function spitting the info out needs a var added var total- it just goes up there different names and everything
+    return area;   //function spitting the info out needs a var added var total- it just goes up there different names and everything
 }
 
-console.log(total);//to access value*/
+console.log(total);  //to access value*/
 
 
 
@@ -254,7 +276,9 @@ console.log(total);//to access value*/
 
 //this is a Function-it has a return
 
-/*function calcAreaF(width, height){
+/*
+
+function calcAreaF(width, height){
     var area = width * height;
     return area;
 }
@@ -268,7 +292,9 @@ console.log(total);//to access value*/
 function calcAreaP(width, height){
     var area = width * height;
     console.log(area);  //no return
-}*/
+}
+
+*/
 
 
 
@@ -279,42 +305,66 @@ function calcAreaP(width, height){
 
 
 
-/*var functionName = function(){//function definition
+/*
+
+
+var functionName = function(){     //anonymous function definition
     //code the function runs
 }
 
-functionName();//Function Call*/
+functionName();    //Function Call
+
+*/
 
 
 
 
 
-/*function functionName(){
+/*
+
+function functionName(){
 
 }
 
 
 
-var functionName = function(){
+var functionName = function(){ //the word function then parameters
     //code to run
 }
-functionName();*/
+
+
+functionName();
+
+
+*/
 
 
 
 
+function calcArea(width, height){}// normal function
+
+  //instead of function we are using variable below
 
 
-//instead of function we are using  variable below
+var calcArea = function(width, height){  //defining the anonymous function here - must be before the invoking
 
-
-var calcArea = function(width, height){//defining the function here - must be before the invoking
-
-    var area = width * height;//code the function runs
+    var area = width * height;  //code the function runs
     return area;
 }
 
-calcArea(20, 30);// invoking, or calling
+calcArea(20, 30);  //giving the arguments
+
+
+
+
+
+var calcArea = function(width, height){  //defining the anonymous function here - must be before the invoking
+
+    var area = width * height;  //code the function runs
+    return area;
+}
+
+var a = calcArea(20, 30);  //returning into the value "a"
 
 console.log(a);
 
@@ -322,15 +372,6 @@ console.log(a);
 
 
 
-var calcArea = function(width, height){//defining the function here - must be before the invoking
-
-    var area = width * height;//code the function runs
-    return area;
-}
-
-var a = calcArea(20, 30);//returning into the value "a"
-
-console.log(a);
-
+//must be declared before they are called
 //named functions, no matter where they are defined before the code is run(hoisting)
 //Anonymous Functions are used for brevity , scope variables are better with this

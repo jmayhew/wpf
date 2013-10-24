@@ -12,3 +12,22 @@ dinner = (time > 2000)? "I can not have dinner":"I can have dinner";//Ternary wi
 
 
 
+
+
+
+
+
+
+
+
+function calcArea(){//curly braces say these are the codes my function is going ot run
+    var width = 20;
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
+
+calcArea();//invocation of function- automatically calls "area" , function call, execution of function
+calcArea();//twice if necessary- making the code REUSABLE*/
+
+
