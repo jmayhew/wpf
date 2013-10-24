@@ -21,14 +21,26 @@ console.log(totalSize+" square feet/inches is the total area of the rhombus");//
 
  */
 
-var calcArea = function(pi, radiusOne, radiusTwo){
-    var area = pi*radiusOne*radiusTwo;
-    return area;
+var calcArea = function(pi, radiusOne, radiusTwo){//defining the anonymous function
+    var area = pi*radiusOne*radiusTwo;//expression for area of a circle
+    return area;//
 }
 var a = calcArea(3.14, 5, 5);
 console.log("The area of the circle is "+a);
 
 
+/*
+
+ var calcArea = function(width, height){  //defining the anonymous function here - must be before the invoking
+
+
+ var area = width * height;  //code the function runs
+ return area;
+ }
+
+ var a = calcArea(20, 30);  //returning into the value "a"
+
+ */
 
 
 
